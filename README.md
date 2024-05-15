@@ -1,4 +1,4 @@
-# Decentralised Voting (dVoting)
+# Decentralised Voting (E-Voting)
 
 A decentralised voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
@@ -49,8 +49,9 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
-   cd dVoting
+   git clone https://github.com/RahulKDubey/Votereum_Part1_E-Voting.git
+   cd Votereum_Part1_E-Voting
+
    ```
 
 2. Run local Ethereum blockchain
